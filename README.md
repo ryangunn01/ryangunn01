@@ -1,7 +1,10 @@
-### Welcome to Ryan Gunn's GitHub
+<html>
 
+<h1>Welcome to Ryan Gunn's GitHub Page</h1>
 
 <a href="http://linkedin.com/in/ryangunn64"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+</html>
 <!--
 **ryangunn01/ryangunn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
