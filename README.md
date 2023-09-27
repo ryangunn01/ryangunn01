@@ -1,6 +1,6 @@
 ### Welcome to Ryan Gunn's GitHub
 
-[![linkedin](https://linkedin.com/in/ryangunn64/<SUBJECT>-<STATUS>-<COLOR>.svg)]([https://shields.io/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
+[![linkedin](https://linkedin.com/in/ryangunn64/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
 
 <!--
 **ryangunn01/ryangunn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
