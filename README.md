@@ -9,6 +9,7 @@
 <h2>UVA Environmental Science Research</h2>
 <h2>UVA Data Science Competition</h2>
 <h2>UVA Data Science Projects</h2>
+<p><a href="https://github.com/ryangunn01/assignment2">Data Tidying</a></p>
 </body>
 </html>
 <!--
